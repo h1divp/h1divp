@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="img.png" alt="Profile image">
+    <img src="img2.png" alt="Profile image">
 </div>
