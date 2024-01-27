@@ -1,6 +1,7 @@
 <div align="center">
     <img src="img4.png" alt="Profile image">
 </div>
+<hr>
 <p>
     Welcome to my profile. I'm Phoenix/h1divp. <br>
     Most of my knowledge is in DSA & web development, but I'm always open to new things. <br>
