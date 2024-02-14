@@ -3,7 +3,7 @@
 </div>
 <hr>
 <p>
-    Welcome to my profile. I'm Phoenix/h1divp. <br>
-    Most of my knowledge is in DSA & web development, but I'm always open to new things. <br>
-    Working on personal projects is the reason why I program. Working with others can be fun if there's good organization, too.
+    Welcome to my profile. I'm Phoenix or "h1divp"! <br>
+    I like to work on projects that deal with web dev, databases, and APIs, but I still really want to expand my horizons.<br>
+    Working on personal projects is also the reason why I program, but working with others can be fun if there's good organization, too.
 </p>
