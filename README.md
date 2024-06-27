@@ -3,7 +3,8 @@
 </div>
 <hr>
 <p>
-    Welcome to my profile. I'm Phoenix, or "h1divp"! <br>
-    I typically work on projects that deal with web dev, databases, and APIs, though I also really want to expand my horizons.<br>
-    I would say working on personal projects is the reason why I program, but working with others can be very fulfilling if there's good organization, too.
+    <h3>Welcome to my profile. I'm Phoenix, or "h1divp"!</h3>
+    I've worked on projects that deal with web, mobile, databases, and APIs. Not crazy stuff, but I've had a lot of fun. Definitely want to try out some other things too.<br>
+    I originally self taught myself how to program, but after taking university classes I enjoy regularly working with others more. I hope to write good and impactful software. I love OSS.
 </p>
+<h6>P.S.: the banner image was the result of me messing around in GIMP for way too long.</h6>
