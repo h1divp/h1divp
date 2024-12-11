@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="nextbanner4.png" alt="Profile image">
+    <img src="okthisiscool.png" alt="Profile image">
 </div>
 <hr>
 <p>
